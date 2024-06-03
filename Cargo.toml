@@ -1,0 +1,9 @@
+[package]
+name = "mm_log"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gdk = { version = "0.8.2", package = "gdk4" }
+glib = "0.19.7"
+gtk = { version = "0.8.2", package = "gtk4" }
